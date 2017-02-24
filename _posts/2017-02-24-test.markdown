@@ -6,3 +6,15 @@ categories: jekyll update
 ---
 
 Test
+
+```python
+    def hi():
+      print 'hi'
+    end
+```
+
+```ruby
+    def hello
+      puts 'hello'
+    end
+```
